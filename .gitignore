@@ -1,0 +1,38 @@
+# Output folders
+output/
+
+# PDFs (fix the pattern to include the dot)
+*.pdf
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.spec
+*.manifest
+*.exe
+dist/
+build/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
